@@ -1,0 +1,10 @@
+{
+  "name": "object-tablet",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "sdruzhchenko <sdruzhchenko@mindk.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
